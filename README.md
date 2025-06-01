@@ -1,6 +1,6 @@
 # Desafio Java - ContaBanco - DIO
 
-Este repositório foi criado para resolver um dos desafios propostos na **Trilha Java Básico** da [DIO (Digital Innovation One)], com foco nos fundamentos de sintaxe em Java.
+Este repositório foi criado para resolver um dos desafios propostos na **Trilha Java Básico** da DIO (Digital Innovation One), com foco nos fundamentos de sintaxe em Java.
 
 ## Descrição do Desafio
 
@@ -14,6 +14,3 @@ O desafio consiste na criação de um pequeno sistema Java que simula a abertura
 ## Tecnologias Utilizadas
 
 - Java 21
-- IDE: IntelliJ IDEA (opcional)
-- Terminal para execução via linha de comando
-
